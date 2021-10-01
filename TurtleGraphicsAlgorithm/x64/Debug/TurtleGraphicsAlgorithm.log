@@ -1,0 +1,5 @@
+﻿  TurtleGraphicsAlgorithm.cpp
+C:\Users\Наиль\source\repos\TurtleGraphicsAlgorithm\TurtleGraphicsAlgorithm\TurtleGraphicsAlgorithm.cpp(26,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наиль\source\repos\TurtleGraphicsAlgorithm\TurtleGraphicsAlgorithm\TurtleGraphicsAlgorithm.cpp(108,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Наиль\source\repos\TurtleGraphicsAlgorithm\TurtleGraphicsAlgorithm\TurtleGraphicsAlgorithm.cpp(114,34): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  TurtleGraphicsAlgorithm.vcxproj -> C:\Users\Наиль\source\repos\TurtleGraphicsAlgorithm\x64\Debug\TurtleGraphicsAlgorithm.exe
